@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Paylike.NET/obj/Debug
+/Paylike.NET/bin/Debug
+/packages/Newtonsoft.Json.8.0.2
+/Paylike.NET.Tests/obj/Debug
+/Paylike.NET.Tests/bin/Debug
